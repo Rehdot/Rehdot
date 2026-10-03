@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Mason.
 
-<!--
-**Rehdot/Rehdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems-focused software engineer interested in developer tooling, JVM internals, programming languages, runtimes and distributed systems.
 
-Here are some ideas to get you started:
+I currently work on C#/.NET middleware at American Fidelity and develop production Java systems for InvadedLands.
+Most of the things I _personally_ build start with a question like, "Could I actually make this work?"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I'm building...
+
+<details>
+<summary><b>Groovy Introspective</b></summary>
+A live JVM developer tool that attaches to running Java processes and provides an
+interactive Groovy environment for runtime inspection and debugging.
+</details>
+
+<details>
+<summary><b>Jackal</b></summary>
+A Rust-inspired macro programming language for Java supporting
+compile-time metaprogramming, token patterns and recursive expansion.
+</details>
+
+<details>
+<summary><b>TweakSuite</b></summary>
+Tooling API for compiling and injecting Java code into running JVMs.
+</details>
+
+### Interested in...
+Developer tooling, JVM internals, programming languages,
+backend systems, infrastructure, distributed systems
+
+[LinkedIn](https://www.linkedin.com/in/mason-price-83a44b305/)
+| [Email](mailto:masonjprice05@gmail.com)
